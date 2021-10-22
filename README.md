@@ -35,7 +35,7 @@
 
 ## Данные
 
-Чтобы вы всегда могли потестить свои идеи и алгоритмы, мы решили оставить архив с данными прямо [в репозитории](https://github.com/sharthZ23/your-second-recsys/blob/add_readme/data_kion.zip).
+Чтобы вы всегда могли потестить свои идеи и алгоритмы, мы решили оставить архив с данными прямо [в репозитории](https://github.com/sharthZ23/your-second-recsys/blob/master/data_kion.zip)
 
 ## Сообщество
 
