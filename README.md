@@ -45,6 +45,19 @@
 
 Сафило Ильдар, телега и слак @Ildar_Saf, [github](https://github.com/irsafilo)
 
+Хасыков Михаил, телега @mkhasykov, [github](https://github.com/mkhasykov)
+
+Фельдман Эмилий, телега @feldlime, [github](https://github.com/feldlime)
+
+Бутенко Александр, телега @iomallach, 
+
+Елисова Ирина, телега @elisovaira, [github](https://github.com/ElisovaIra)
+
+Грановский Владимир, телега @vsgranovskiy, слак @fjord
+
+Волохов Глеб, телега @Bonstor,
+
+Белков Игорь, телега @Sedler, [github](https://github.com/OzmundSedler)
 
 ## Bibtex
 ```
