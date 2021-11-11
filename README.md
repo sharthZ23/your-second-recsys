@@ -16,16 +16,16 @@
 1. **Your first money / experiment**
    
    + Бизнес-эффект от рекомендаций, *Ильдар Сафило*, [ODS](https://ods.ai/tracks/recsys-course2021/blocks/89d8b49a-a7d4-4e6a-9f2a-25910b32fcb8), [Youtube](https://www.youtube.com/watch?v=xPqHxf7nsg8)
-   + Дополнительные методы оценки качества рекомендаций, *Михаил Хасыков*, [ODS](https://ods.ai/tracks/recsys-course2021/blocks/7b5961cd-b6d3-4948-b5a8-4dbadf6fb7e1), [Youtube](https://www.youtube.com/watch?v=sI95Y02YD14), [code](https://github.com/sharthZ23/your-first-recsys/tree/add_readme/lecture_2)
+   + Дополнительные методы оценки качества рекомендаций, *Михаил Хасыков*, [ODS](https://ods.ai/tracks/recsys-course2021/blocks/7b5961cd-b6d3-4948-b5a8-4dbadf6fb7e1), [Youtube](https://www.youtube.com/watch?v=sI95Y02YD14), [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_2)
    
 2. **Your first prod**
    
     + Рекомендации в проде, *Эмилий Фельдман*
-    + Ускорение рекомендаций в проде, *Александр Бутенко*
+    + Ускорение рекомендаций в проде, *Александр Бутенко* [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_4)
    
 3. **Your second model**
    
-    + Двухэтапная модель, *Ирина Елисова*
+    + Двухэтапная модель, *Ирина Елисова* [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_5)
     + Нейросетевая матричная факторизация и dssm, *Глеб Волохов и Владимир Грановский*
 
 
@@ -43,21 +43,21 @@
 
 ## Команда
 
-Сафило Ильдар, телега и слак @Ildar_Saf, [github](https://github.com/irsafilo)
+Сафило Ильдар, телеграм и слак @Ildar_Saf, [github](https://github.com/irsafilo)
 
-Хасыков Михаил, телега @mkhasykov, [github](https://github.com/mkhasykov)
+Хасыков Михаил, телеграм @mkhasykov, [github](https://github.com/mkhasykov)
 
-Фельдман Эмилий, телега @feldlime, [github](https://github.com/feldlime)
+Фельдман Эмилий, телеграм @feldlime, [github](https://github.com/feldlime)
 
-Бутенко Александр, телега @iomallach, 
+Бутенко Александр, телеграм @iomallach
 
-Елисова Ирина, телега @elisovaira, [github](https://github.com/ElisovaIra)
+Елисова Ирина, телеграм и слак @elisovaira, [github](https://github.com/ElisovaIra)
 
-Грановский Владимир, телега @vsgranovskiy, слак @fjord
+Грановский Владимир, телеграм @vsgranovskiy, слак @fjord
 
-Волохов Глеб, телега @Bonstor,
+Волохов Глеб, телеграм @Bonstor
 
-Белков Игорь, телега @Sedler, [github](https://github.com/OzmundSedler)
+Белков Игорь, телеграм @Sedler, [github](https://github.com/OzmundSedler)
 
 ## Bibtex
 ```
