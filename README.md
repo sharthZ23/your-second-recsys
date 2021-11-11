@@ -20,8 +20,8 @@
    
 2. **Your first prod**
    
-    + Рекомендации в проде, *Эмилий Фельдман*
-    + Ускорение рекомендаций в проде, *Александр Бутенко* [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_4)
+    + Рекомендации в проде, *Эмилий Фельдман*, [ODS](https://ods.ai/tracks/recsys-course2021/blocks/15ea2527-34b9-4a75-84bf-d5c6a5ebb7d1), [Youtube](https://www.youtube.com/watch?v=nOg8z-CfJP4)
+    + Ускорение рекомендаций в проде, *Александр Бутенко* [ODS](https://ods.ai/tracks/recsys-course2021/blocks/bff86b98-b9e7-41c4-af57-f5326828ab61), [Youtube](https://www.youtube.com/watch?v=VGLW6_rTzOM), [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_4)
    
 3. **Your second model**
    
