@@ -26,7 +26,8 @@
 3. **Your second model**
    
     + Двухэтапная модель, *Ирина Елисова* [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_5)
-    + Нейросетевая матричная факторизация и dssm, *Глеб Волохов и Владимир Грановский*
+    + Нейросетевая матричная факторизация и dssm (Теория) *Глеб Волохов* [ODS](https://ods.ai/tracks/recsys-course2021/blocks/b89e1feb-e945-4ac5-9a66-77aacfde6b92), [Youtube](https://www.youtube.com/watch?v=IznR42dGH-c),
+    + Нейросетевая матричная факторизация и dssm (Практика) *Владимир Грановский* [ODS](https://ods.ai/tracks/recsys-course2021/blocks/85f9589f-b8e6-40e9-9442-36ba7880eb5f), [Youtube](https://www.youtube.com/watch?v=BssyfbDCxvU), [code](https://github.com/sharthZ23/your-second-recsys/tree/master/lecture_6) 
 
 
 ## Соревнование
